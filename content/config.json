@@ -1,10 +1,10 @@
 {
   "title": "r/explainlikeimfive",
-  "url": "https://rish0b.github.io",
+  "url": "https://rish0b.github.io/eli5-site-ui",
   "description": "Answering the top questions from Reddit on the daily.",
   "copyright": "© All rights reserved.",
   "googleAnalyticsId": "",
-  "pathPrefix": "/",
+  "pathPrefix": "/eli5-site-ui",
   "feedLimit": 10,
   "menu": [
     {

@@ -11,10 +11,4 @@
   }
 }
 
-.dark {
-  color-scheme: dark;
 
-  @each $key, $value in variables.$dark-color-palette {
-    --color-#{$key}: #{functions.hslToList($value)};
-  }
-}
