@@ -1,0 +1,34 @@
+{
+  "title": "r/explainlikeimfive",
+  "url": "https://rish0b.github.io",
+  "description": "Answering the top questions from Reddit on the daily.",
+  "copyright": "© All rights reserved.",
+  "googleAnalyticsId": "",
+  "pathPrefix": "/",
+  "feedLimit": 10,
+  "menu": [
+    {
+      "title": "Articles",
+      "url": "/"
+    },
+    {
+      "title": "Meet the Team",
+      "url": "/pages/team"
+    }
+  ],
+  "author": {
+    "title": "r/explainlikeimfive",
+    "photo": "/logo.png",
+    "description": "Answering the top questions from Reddit on the daily.",
+    "contacts": [
+      {
+        "name": "github",
+        "contact": "rish0b"
+      },
+      {
+        "name": "linkedin",
+        "contact": "rishab-r"
+      }
+    ]
+  }
+}
