@@ -5,6 +5,11 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write  
+  pages: write     
+  id-token: write      
+
 jobs:
   release:
     name: Release
@@ -42,7 +47,7 @@ jobs:
 
       - name: Install modules
         if: steps.bun-cache.outputs.cache-hit != 'true'
-        run: bun install --frozen-lockfile
+        run: bun install
 
       - name: Release
         env:
@@ -70,7 +75,7 @@ jobs:
   
       - name: Install dependencies
         run: |
-          bun install --frozen-lockfile  
+          bun install 
           npm install --legacy-peer-deps  
   
       - name: Build Gatsby site
