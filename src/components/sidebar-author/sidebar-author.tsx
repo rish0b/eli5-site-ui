@@ -34,7 +34,6 @@ const SidebarAuthor: FC<SidebarAuthorProps> = ({ author, isHome }) => (
           </Link>
         </h2>
       )}
-      <ThemeSwitcher />
     </div>
     <p className={styles.description}>{author.description}</p>
   </div>
