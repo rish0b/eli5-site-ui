@@ -1,6 +1,21 @@
 @use "src/assets/styles/mixins";
 @use "src/assets/styles/variables";
 
+blockquote {
+  p {
+    font-size: 16px !important;
+    color: gray !important;
+    a{
+      color: rgb(95, 94, 94) !important;
+    }
+  }
+
+}
+
+hr {
+  margin-bottom: 0px !important;
+}
+
 .postContent {
   max-width: variables.$layout-post-single-width;
   @include mixins.margin-auto();
@@ -8,11 +23,11 @@
 
   .title {
     font-size: variables.$typography-base-font-size * 2;
-    font-weight: 600;
+    font-weight: 800;
     margin-left: auto;
     margin-right: auto;
     max-width: variables.$layout-post-width;
-    text-align: center;
+    // text-align: center;
     @include mixins.line-height(1.65);
     @include mixins.margin-top(1);
     @include mixins.margin-bottom(0);
@@ -22,20 +37,20 @@
     figure {
       @include mixins.margin-bottom(1);
 
-      blockquote {
-        font-style: italic;
-        text-align: center;
-        @include mixins.margin-top(0);
-        @include mixins.padding(1, 0);
+      // blockquote {
+      //   font-style: italic;
+      //   text-align: center;
+      //   @include mixins.margin-top(0);
+      //   @include mixins.padding(1, 0);
 
-        p {
-          font-size: variables.$typography-base-font-size * 1.6817;
-          max-width: variables.$layout-post-width;
-          @include mixins.margin-top(0);
-          @include mixins.margin-bottom(1);
-          @include mixins.line-height(1.5);
-        }
-      }
+      //   p {
+      //     font-size: variables.$typography-base-font-size * 1.6817;
+      //     max-width: variables.$layout-post-width;
+      //     @include mixins.margin-top(0);
+      //     @include mixins.margin-bottom(1);
+      //     @include mixins.line-height(1.5);
+      //   }
+      // }
     }
 
     a {
@@ -81,7 +96,7 @@
       p {
         font-size: variables.$typography-base-font-size * 1.125;
         @include mixins.line-height(1.125);
-        @include mixins.margin-bottom(1.125);
+        // @include mixins.margin-bottom(1.125);
       }
 
       h2 > a {

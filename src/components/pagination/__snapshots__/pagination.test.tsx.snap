@@ -34,7 +34,7 @@ exports[`Pagination renders correctly 1`] = `
         {
           "$$typeof": Symbol(react.test.json),
           "children": [
-            "→ NEXT",
+            "NEXT →",
           ],
           "props": {
             "aria-current": undefined,

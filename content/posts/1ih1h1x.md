@@ -9,13 +9,12 @@ tags:
 - "Economics"
 description: "Explore why nations can't simply cancel debts and how it affects global trust and finance."
 ---
-### Original Reddit Post
+>👉 [_Read the discussion on Reddit_](https://www.reddit.com/r/explainlikeimfive/comments/1ih1h1x)  
+>**Post:** ELI5: Can countries just cancel the equivalent in each other's debts? And if they can, why don't they?  
+>**Reddit User:** u/sy029  
 
-**Title:** ELI5: Can countries just cancel the equivalent in each other's debts? And if they can, why don't they?  
-**Author:** u/sy029  
-
-[Visit the original post ↗️](https://www.reddit.com/r/explainlikeimfive/comments/1ih1h1x)
 ---
+### Introduction
 
 Imagine you're playing a game of Monopoly with your friends. Everyone owes each other some money, and it seems like a brilliant idea to just cancel the debts to save the hassle. But when it comes to the real world of international finance, things aren't that simple. Let’s explore why countries can't just do away with each other's debts and why it's not a common practice.
 

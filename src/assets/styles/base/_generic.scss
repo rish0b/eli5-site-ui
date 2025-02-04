@@ -29,6 +29,10 @@ h6 {
   font-weight: 600;
 }
 
+h2, h3 {
+  font-weight: 800;
+}
+
 h1 {
   font-size: variables.$typography-base-font-size * 2.5;
   @include mixins.line-height(2);
@@ -46,7 +50,7 @@ h2 {
 h3 {
   font-size: variables.$typography-base-font-size * 1.375;
   @include mixins.line-height(1);
-  @include mixins.margin-top(2);
+  @include mixins.margin-top(1.5);
   @include mixins.margin-bottom(0.5);
 }
 
@@ -77,23 +81,29 @@ img {
   max-width: 100%;
 }
 
+// hr {
+//   background-image: linear-gradient(
+//     to bottom,
+//     transparent 1px,
+//     transparent 11px,
+//     hsl(var(--color-foreground)) 11px,
+//     hsl(var(--color-foreground)) 15px,
+//     transparent 15px,
+//     transparent 26px
+//   );
+//   background-size: 100% 26px;
+//   border: 0;
+//   color: hsl(var(--color-foreground));
+//   display: block;
+//   height: 26px;
+//   margin: 52px auto;
+//   width: 100px;
+// }
+
 hr {
-  background-image: linear-gradient(
-    to bottom,
-    transparent 1px,
-    transparent 11px,
-    hsl(var(--color-foreground)) 11px,
-    hsl(var(--color-foreground)) 15px,
-    transparent 15px,
-    transparent 26px
-  );
-  background-size: 100% 26px;
-  border: 0;
-  color: hsl(var(--color-foreground));
-  display: block;
-  height: 26px;
-  margin: 52px auto;
-  width: 100px;
+  color: rgb(225, 225, 225, 0.2) !important;
+  margin-top: 0 !important;
+  // margin-bottom: 30px !important;
 }
 
 a {
@@ -127,11 +137,13 @@ p {
   @include mixins.margin-bottom(1);
 }
 
-blockquote {
-  font-style: italic;
-  padding: 0;
-  text-align: center;
-}
+// blockquote {
+//   font-style: italic;
+//   padding: 0;
+//   text-align: center;
+// }
+
+
 
 figure {
   display: block;

@@ -25,6 +25,7 @@ const Feed: FC<FeedProps> = ({ edges }) => (
             {new Date(edge.node.frontmatter.date).toLocaleDateString("en-US", {
               year: "numeric",
               month: "long",
+              day: "numeric"
             })}
           </time>
           <span className={styles.divider} />
@@ -49,7 +50,7 @@ const Feed: FC<FeedProps> = ({ edges }) => (
           className={styles.more}
           to={edge.node.frontmatter?.slug || edge.node.fields.slug}
         >
-          Read
+          <hr></hr>
         </Link>
       </div>
     ))}

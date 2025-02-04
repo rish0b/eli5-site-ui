@@ -2,8 +2,18 @@
 @use "src/assets/styles/variables";
 
 .feed {
+
+  a {
+    font-weight: 800;
+  }
+
+  hr {
+    margin-top: 25px !important;
+    margin-bottom: 30px !important;
+  }
+
   .item {
-    @include mixins.margin-bottom(1.25);
+    // @include mixins.margin-bottom(1.25);
 
     &:last-child {
       @include mixins.margin-bottom(0.5);
