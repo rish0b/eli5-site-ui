@@ -2,7 +2,7 @@
 @use "src/assets/styles/variables";
 
 .page {
-  grid-column: span 12;
+  grid-column: span 13;
   @include mixins.margin-bottom(2);
 
   .inner {
@@ -36,7 +36,7 @@
 
 @include mixins.breakpoint-lg {
   .page {
-    grid-column: span 8;
+    grid-column: span 9;
 
     .inner {
       @include mixins.padding(1.5, 1, 0);
