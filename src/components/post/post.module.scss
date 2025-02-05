@@ -2,7 +2,7 @@
 @use "src/assets/styles/variables";
 
 .post {
-  grid-column: span 12;
+  grid-column: span 13;
 
   .content {
     @include mixins.margin-auto();
