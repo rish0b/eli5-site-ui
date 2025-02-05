@@ -20,7 +20,7 @@
       }
 
       &.disable {
-        color: hsl(var(--color-muted-foreground));
+        color: rgba(173, 173, 173, 0.867);
         pointer-events: none;
       }
     }
@@ -41,7 +41,7 @@
       }
 
       &.disable {
-        color: hsl(var(--color-muted-foreground));
+        color: rgba(173, 173, 173, 0.867);
         pointer-events: none;
       }
     }

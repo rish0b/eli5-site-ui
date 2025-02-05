@@ -5,7 +5,7 @@
   "copyright": "© All rights reserved.",
   "googleAnalyticsId": "",
   "pathPrefix": "/eli5-site-ui",
-  "feedLimit": 10,
+  "feedLimit": 4,
   "menu": [
     {
       "title": "Articles",
