@@ -18,9 +18,10 @@ type SidebarAuthorProps = {
 const SidebarAuthor: FC<SidebarAuthorProps> = ({ author, isHome }) => (
   <div className={styles.sidebarAuthor}>
     <Link to="/">
+      <Image alt={author.title} path={author.photo} className={styles.photo} />
     </Link>
-
     <div className={styles.titleContainer}>
+      
       {isHome ? (
         <h1 className={styles.title}>
           <Link className={styles.link} to="/">
