@@ -1,13 +1,13 @@
 ---
-title: "Are There Invisible Colors? Discover What We Can't See with Our Eyes"
-date: "2025-02-27T07:33:08.865Z"
+title: "Invisible Colors: What Mantis Shrimps See That We Can't"
+date: "2025-02-27T07:40:03.331Z"
 template: "post"
 draft: false
 slug: "/posts/1iz2y2g"
 category: "Physics"
 tags:
 - "Physics"
-description: "Explore how unseen colors could make objects vanish from our sight and reshape reality."
+description: "Discover why some colors remain hidden to humans and how they could cloak objects in mystery."
 ---
 >👉 [Read the discussion on Reddit](https://www.reddit.com/r/explainlikeimfive/comments/1iz2y2g)  
 >**Post:** ELI5: Since there are colors outside of the spectrum of human perception would an object that is entirely one of those colors be invisible to a human?  
@@ -16,14 +16,12 @@ description: "Explore how unseen colors could make objects vanish from our sight
 
 ### 
 
-Imagine a world full of colors you've never even dreamed of—colors that no human eye can see. Cool, right? That's not science fiction but the reality for creatures like the mantis shrimp. Let's dive into why an object might seem invisible to us simply because of its color.
+Ever wonder what it's like to see the world through a mantis shrimp's eyes? These little sea creatures have a superpower—color vision that puts ours to shame. Mantis shrimps rock 12 types of photoreceptors, while we humans have to make do with just three. Essentially, they see colors we can't even imagine, including ultraviolet (UV) hues.
 
-Humans, with our fancy cameras and smart gadgets, have a bit of technological envy when it comes to the mantis shrimp. These undersea wonders sport a whopping 12 types of color receptors in their eyes. To put that in perspective, we humans only have three, which let us see red, green, and blue. The shrimp? They see a kaleidoscope of colors beyond our wildest imagination, including ultraviolet (UV) and polarized light.
+Now, what happens if something is painted entirely in one of those mantis shrimp-exclusive colors? For us humans, it’d be as eye-catching as a kangaroo on roller skates—invisible. Yep, if an object is sporting a color that's completely out of our visible spectrum, like some UV shades, we might miss it entirely. Imagine all the things hiding in plain sight, cloaked in shades we’re blind to!
 
-So what happens if an object were splashed in colors only the mantis shrimp can see? In a word, *it would be invisible to us.* Our eyes just aren't built for it. Objects reflecting or emitting light solely in wavelengths like UV or infrared are entirely off our visual radar. We can't see them, plain and simple. It's like trying to listen to a dog whistle with your ears—a silent affair indeed!
+But before you jump to "shrimp-o-vision" envy, think of it this way: our brains are wired differently. Even if we could see those extra colors, our heads might not handle processing the info so well. Mantis shrimps can quickly identify colors because of their unique eyes—and let’s face it, they’ve got a simpler fishy lifestyle than ours.
 
-But don't fret; invisibility in this case isn't universal. Creatures with different vision capabilities or specialized tools, like UV and infrared cameras, could spot such an object easily. It’s a bit like the sneaky UV rays from the sun that give you a sunburn even though you don’t actually see them coming.
+Yet, the idea stands. If aliens came in colors unseen, they’d pass by unnoticed, save for a curious dog or a high-tech camera. So, there might be a secret world of UV disco parties happening, just beyond our sight.
 
-Ultimately, while we might miss out on some flashy shrimp disco lights, it's intriguing to think about how perception shapes reality. The unseen colors aren’t any less real; they just lurk in the unseen corners of our visible universe, waiting for someone—or something—that can truly appreciate them.
-
-**What do you think?** If we could see these hidden colors, how would it change the way we experience the world? Drop your thoughts in the comments!
+Curiosity piqued? Or perhaps you're a little relieved those invisible colors aren't waving at you on your morning walk? Whatever the case, consider this: there’s more to see than meets the eye. So keep looking—perhaps with a mantis shrimp eye, or maybe just a bit more wonder.
